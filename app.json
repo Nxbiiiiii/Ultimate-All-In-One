@@ -7,7 +7,7 @@
   "env": {    
     "MONGO_URI": {
      "description": "Your Mongo url",
-     "value": "mongodb+srv://insane:op5@cluster0.5qyw6.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+     "value": "mongodb+srv://CodeXDev:CodeX007@codex-public.lo930xf.mongodb.net/?retryWrites=true&w=majority",
      "required": true
     },
     "NODE_HOST":{
@@ -50,7 +50,7 @@
       "required": true
      },
     "OWNERID":{
-      "description": "870179991462236170",
+      "description": "977229749539713116",
       "required": false
      },
     "TOKEN": {
